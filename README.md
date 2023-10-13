@@ -64,7 +64,7 @@ I am a Full Stack Developer with 3 years of experience in building and maintaini
 
 12. **DIAMOND MALL**: A PHP, Apache Cordova, JavaScript, Framwork7, MySQL-based game and reward-based platform.
 
-**Contribution**
+## Contribution
 
 * Creating Database Schema.
 * 3rd party API requirement adaptation and implementation
