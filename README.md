@@ -32,9 +32,9 @@ I am a Full Stack Developer with 3 years of experience in building and maintaini
 
 ## Experience
 
-- **Full Stack Developer** at In Time Tec Visionsoft Pvt. Ltd. (August 2023 - Present)
-- **MERN and Laravel Developer** at Dotsquares technologies india private limited (November 2022 – August 2023)
-- **Senior Full Stack Software Developer** at WE RNS IT Solutions private limited (March 2021 - November 2022)
+- **Software Engineer** at In Time Tec Visionsoft Pvt. Ltd. (August 2023 - Present)
+- **Associate Software Developer** at Dotsquares technologies india private limited (November 2022 – August 2023)
+- **Software Developer** at WE RNS IT Solutions private limited (March 2021 - November 2022)
 - **Freelancer** (2019 – 2021)
 - **Intern** at QUEST SOLUTIONS (2019)
 
